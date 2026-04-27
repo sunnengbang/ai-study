@@ -7,7 +7,7 @@ average =total /len(scores)
 
 print("Scores : ",scores)
 print("total : ",total)
-print("Average : "average)
+print("Average : "，average)
 
-print("MAX : "max(scores))
-print("MIN : "min(scores))
+print("MAX : "，max(scores))
+print("MIN : "，min(scores))
