@@ -1,4 +1,4 @@
-scores = [80,90,75]
+scores = [80, 90 , 75]
 total = 0
 for score in scores:
   total = total + score
@@ -7,7 +7,7 @@ average =total /len(scores)
 
 print("Scores:",scores)
 print("total:",total)
-print(average)
+print("Average:"average)
 
-print(max(scores))
-print(min(scores))
+print("MAX:"max(scores))
+print("MIN:"min(scores))
